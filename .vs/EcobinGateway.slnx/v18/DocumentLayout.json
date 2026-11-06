@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\EcobinBbsr\\EcobinGateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36E20F23-4DFF-424E-84DD-FC52136AC31D}|EcobinGateway\\EcobinGateway.csproj|x:\\ecobinbbsr\\ecobingateway\\ecobingateway\\ecobingateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36E20F23-4DFF-424E-84DD-FC52136AC31D}|EcobinGateway\\EcobinGateway.csproj|solutionrelative:ecobingateway\\ecobingateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A0ACC7-0E4E-4B3C-88D7-DF2E9A1DE0A8}|EcobinGateway.Routing\\EcobinGateway.Routing.csproj|x:\\ecobinbbsr\\ecobingateway\\ecobingateway.routing\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A0ACC7-0E4E-4B3C-88D7-DF2E9A1DE0A8}|EcobinGateway.Routing\\EcobinGateway.Routing.csproj|solutionrelative:ecobingateway.routing\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A376B93-E860-405F-963B-2E23BC1FCC3C}|EcobinGateway.Authorization\\EcobinGateway.Authorization.csproj|x:\\ecobinbbsr\\ecobingateway\\ecobingateway.authorization\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A376B93-E860-405F-963B-2E23BC1FCC3C}|EcobinGateway.Authorization\\EcobinGateway.Authorization.csproj|solutionrelative:ecobingateway.authorization\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA0410E-B953-4B50-9796-3D14B630447C}|EcobinGateway.Authentication\\EcobinGateway.Authentication.csproj|x:\\ecobinbbsr\\ecobingateway\\ecobingateway.authentication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA0410E-B953-4B50-9796-3D14B630447C}|EcobinGateway.Authentication\\EcobinGateway.Authentication.csproj|solutionrelative:ecobingateway.authentication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EcobinGateway",
+              "DocumentMoniker": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway\\EcobinGateway.csproj",
+              "RelativeDocumentMoniker": "EcobinGateway\\EcobinGateway.csproj",
+              "ToolTip": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway\\EcobinGateway.csproj",
+              "RelativeToolTip": "EcobinGateway\\EcobinGateway.csproj",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-03T15:20:33.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Routing\\Class1.cs",
+              "RelativeDocumentMoniker": "EcobinGateway.Routing\\Class1.cs",
+              "ToolTip": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Routing\\Class1.cs",
+              "RelativeToolTip": "EcobinGateway.Routing\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:17:58.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authorization\\Class1.cs",
+              "RelativeDocumentMoniker": "EcobinGateway.Authorization\\Class1.cs",
+              "ToolTip": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authorization\\Class1.cs",
+              "RelativeToolTip": "EcobinGateway.Authorization\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:17:25.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authentication\\Class1.cs",
+              "RelativeDocumentMoniker": "EcobinGateway.Authentication\\Class1.cs",
+              "ToolTip": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authentication\\Class1.cs",
+              "RelativeToolTip": "EcobinGateway.Authentication\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:16:35.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

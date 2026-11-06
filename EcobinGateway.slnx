@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EcobinGateway.Authentication/EcobinGateway.Authentication.csproj" />
+  <Project Path="EcobinGateway.Authorization/EcobinGateway.Authorization.csproj" />
+  <Project Path="EcobinGateway.Routing/EcobinGateway.Routing.csproj" />
+  <Project Path="EcobinGateway/EcobinGateway.csproj" />
+</Solution>
