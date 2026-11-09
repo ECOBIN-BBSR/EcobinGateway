@@ -1,0 +1,13 @@
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/bin/Debug/net10.0/EcobinGateway.Routing.deps.json
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/bin/Debug/net10.0/EcobinGateway.Routing.dll
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/bin/Debug/net10.0/EcobinGateway.Routing.pdb
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/obj/Debug/net10.0/EcobinGateway.Routing.csproj.AssemblyReference.cache
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/obj/Debug/net10.0/EcobinGateway.Routing.GeneratedMSBuildEditorConfig.editorconfig
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/obj/Debug/net10.0/EcobinGateway.Routing.AssemblyInfoInputs.cache
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/obj/Debug/net10.0/EcobinGateway.Routing.AssemblyInfo.cs
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/obj/Debug/net10.0/EcobinGateway.Routing.csproj.CoreCompileInputs.cache
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/obj/Debug/net10.0/EcobinGateway.Routing.sourcelink.json
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/obj/Debug/net10.0/EcobinGateway.Routing.dll
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/obj/Debug/net10.0/refint/EcobinGateway.Routing.dll
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/obj/Debug/net10.0/EcobinGateway.Routing.pdb
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/obj/Debug/net10.0/ref/EcobinGateway.Routing.dll

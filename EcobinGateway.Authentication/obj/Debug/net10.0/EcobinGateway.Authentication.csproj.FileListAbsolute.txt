@@ -1,0 +1,12 @@
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/bin/Debug/net10.0/EcobinGateway.Authentication.deps.json
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/bin/Debug/net10.0/EcobinGateway.Authentication.dll
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/bin/Debug/net10.0/EcobinGateway.Authentication.pdb
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/obj/Debug/net10.0/EcobinGateway.Authentication.GeneratedMSBuildEditorConfig.editorconfig
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/obj/Debug/net10.0/EcobinGateway.Authentication.AssemblyInfoInputs.cache
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/obj/Debug/net10.0/EcobinGateway.Authentication.AssemblyInfo.cs
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/obj/Debug/net10.0/EcobinGateway.Authentication.csproj.CoreCompileInputs.cache
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/obj/Debug/net10.0/EcobinGateway.Authentication.sourcelink.json
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/obj/Debug/net10.0/EcobinGateway.Authentication.dll
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/obj/Debug/net10.0/refint/EcobinGateway.Authentication.dll
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/obj/Debug/net10.0/EcobinGateway.Authentication.pdb
+/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/obj/Debug/net10.0/ref/EcobinGateway.Authentication.dll

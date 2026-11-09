@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway\\EcobinGateway.csproj": {}
+    "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway/EcobinGateway.csproj": {}
   },
   "projects": {
-    "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authentication\\EcobinGateway.Authentication.csproj": {
+    "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/EcobinGateway.Authentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authentication\\EcobinGateway.Authentication.csproj",
+        "projectUniqueName": "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/EcobinGateway.Authentication.csproj",
         "projectName": "EcobinGateway.Authentication",
-        "projectPath": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authentication\\EcobinGateway.Authentication.csproj",
-        "packagesPath": "C:\\Users\\ironc\\.nuget\\packages\\",
-        "outputPath": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authentication\\obj\\",
+        "projectPath": "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/EcobinGateway.Authentication.csproj",
+        "packagesPath": "/home/ice/.nuget/packages/",
+        "outputPath": "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ironc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ice/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -345,28 +339,22 @@
         }
       }
     },
-    "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authorization\\EcobinGateway.Authorization.csproj": {
+    "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authorization/EcobinGateway.Authorization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authorization\\EcobinGateway.Authorization.csproj",
+        "projectUniqueName": "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authorization/EcobinGateway.Authorization.csproj",
         "projectName": "EcobinGateway.Authorization",
-        "projectPath": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authorization\\EcobinGateway.Authorization.csproj",
-        "packagesPath": "C:\\Users\\ironc\\.nuget\\packages\\",
-        "outputPath": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authorization\\obj\\",
+        "projectPath": "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authorization/EcobinGateway.Authorization.csproj",
+        "packagesPath": "/home/ice/.nuget/packages/",
+        "outputPath": "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authorization/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ironc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ice/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -408,7 +396,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -686,28 +674,22 @@
         }
       }
     },
-    "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Routing\\EcobinGateway.Routing.csproj": {
+    "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/EcobinGateway.Routing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Routing\\EcobinGateway.Routing.csproj",
+        "projectUniqueName": "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/EcobinGateway.Routing.csproj",
         "projectName": "EcobinGateway.Routing",
-        "projectPath": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Routing\\EcobinGateway.Routing.csproj",
-        "packagesPath": "C:\\Users\\ironc\\.nuget\\packages\\",
-        "outputPath": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Routing\\obj\\",
+        "projectPath": "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/EcobinGateway.Routing.csproj",
+        "packagesPath": "/home/ice/.nuget/packages/",
+        "outputPath": "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ironc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ice/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -733,6 +715,12 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Yarp.ReverseProxy": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -749,7 +737,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1027,28 +1015,22 @@
         }
       }
     },
-    "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway\\EcobinGateway.csproj": {
+    "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway/EcobinGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway\\EcobinGateway.csproj",
+        "projectUniqueName": "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway/EcobinGateway.csproj",
         "projectName": "EcobinGateway",
-        "projectPath": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway\\EcobinGateway.csproj",
-        "packagesPath": "C:\\Users\\ironc\\.nuget\\packages\\",
-        "outputPath": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway\\obj\\",
+        "projectPath": "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway/EcobinGateway.csproj",
+        "packagesPath": "/home/ice/.nuget/packages/",
+        "outputPath": "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ironc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ice/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -1056,14 +1038,14 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authentication\\EcobinGateway.Authentication.csproj": {
-                "projectPath": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authentication\\EcobinGateway.Authentication.csproj"
+              "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/EcobinGateway.Authentication.csproj": {
+                "projectPath": "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authentication/EcobinGateway.Authentication.csproj"
               },
-              "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authorization\\EcobinGateway.Authorization.csproj": {
-                "projectPath": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Authorization\\EcobinGateway.Authorization.csproj"
+              "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authorization/EcobinGateway.Authorization.csproj": {
+                "projectPath": "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Authorization/EcobinGateway.Authorization.csproj"
               },
-              "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Routing\\EcobinGateway.Routing.csproj": {
-                "projectPath": "X:\\EcobinBbsr\\EcobinGateway\\EcobinGateway.Routing\\EcobinGateway.Routing.csproj"
+              "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/EcobinGateway.Routing.csproj": {
+                "projectPath": "/home/ice/Code/Ecobin/EcobinGateway/EcobinGateway.Routing/EcobinGateway.Routing.csproj"
               }
             }
           }
@@ -1085,6 +1067,10 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[10.0.11, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.11, )"
@@ -1109,7 +1095,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
