@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcobinGateway.Authentication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d16e0905a29ef03767fd20e474063d4453b19a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c52ca43dfdfe2985b4fbf35aa571bc6b87baaba1")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcobinGateway.Authentication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcobinGateway.Authentication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
