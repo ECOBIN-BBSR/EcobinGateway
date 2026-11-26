@@ -1,0 +1,26 @@
+
+# ==============================
+# .NET Build Output
+# ==============================
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+artifacts/
+
+# ==============================
+# Environment-specific Settings
+# ==============================
+appsettings.Development.json
+appsettings.*.Development.json
+
+# ==============================
+# IDE Files
+# ==============================
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
